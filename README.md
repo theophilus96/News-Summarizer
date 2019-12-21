@@ -2,6 +2,8 @@
 
 ![PyPI](https://img.shields.io/pypi/pyversions/Django.svg)
 
+![jolt](/Users/theophiluskwek/Documents/Github/Jolt/Jolt-Portfolio.png)
+
 We want news readers to start discussions about news they care about and feel empowered by it.
 
 Table of contents:
