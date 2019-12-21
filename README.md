@@ -2,7 +2,7 @@
 
 ![PyPI](https://img.shields.io/pypi/pyversions/Django.svg)
 
-![jolt](/Users/theophiluskwek/Documents/Github/Jolt/Jolt-Portfolio.png)
+![jolt](https://cdn.glitch.com/90698d96-e472-4aba-9631-8fa222ff9f65%2FJolt-Portfolio.png?v=1576905476137)
 
 We want news readers to start discussions about news they care about and feel empowered by it.
 
